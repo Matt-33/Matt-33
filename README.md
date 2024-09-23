@@ -30,15 +30,6 @@ Basé à Bordeaux, je travaille principalement avec les technologies suivantes :
 - 💡 Passionné par l'univers des **cryptomonnaies**
 ---
 
-### 📊 Statistiques GitHub
-
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatthiasGiraudeau&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=8px" alt="Matthias's GitHub stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthiasGiraudeau&layout=compact&langs_count=6&theme=dark&border_radius=8px" alt="Top Langs"/>
-</div>
-
----
-
 ### 📈 Contributions
 
 <div align="center">
