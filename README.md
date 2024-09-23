@@ -25,7 +25,7 @@ Basé à Bordeaux, je travaille principalement avec les technologies suivantes :
 
 ### 💼 Mon parcours
 
-- 🎖️ Anciennement Gendarme
+- 🎖️ Ancien Gendarme
 - 👨‍💻 Développeur web en reconversion, passionné par les technologies modernes
 - 💡 Passionné par l'univers des **cryptomonnaies**
 ---
