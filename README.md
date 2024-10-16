@@ -1,4 +1,4 @@
-## Hey ! 👋 Je suis <b>Matthias Giraudeau</b> ! Développeur web en reconversion 🚀
+## Hey ! 👋 Je suis <b>Matthias Giraudeau</b> ! Développeur web FULLSTACK 🚀
 
 Après plusieurs années dans la Gendarmerie, je me suis tourné vers le développement web, une passion grandissante. J'adore explorer les nouvelles technologies, en particulier dans le domaine de la crypto. Aujourd'hui, je suis focalisé sur la création d'applications web modernes avec un ensemble de compétences techniques variées.
 
